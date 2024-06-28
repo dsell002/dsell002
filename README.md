@@ -1,6 +1,6 @@
 ## Flight Software Projects
-- [Spacecraft Command Interface](https://github.com/dsell002/flight-software/universal-commang-gui): An interface for commanding spacecraft.
-- [Telemetry Data Parser](https://github.com/dsell002/flight-software/fsw_cmd_tlm_parser): A tool for parsing telemetry data.
+- [Spacecraft Command Interface](https://github.com/dsell002/universal-commang-gui): An interface for commanding spacecraft.
+- [Telemetry Data Parser](https://github.com/dsell002/fsw_cmd_tlm_parser): A tool for parsing telemetry data.
 <!--
 ## Crypto Projects
 - [Crypto Wallet](https://github.com/dsell002/crypto-projects/crypto-wallet): A secure cryptocurrency wallet.
