@@ -13,8 +13,10 @@
 ## Backend Applications
 - [Node.js API](https://github.com/dsell002/backend-applications/node-api): A RESTful API built with Node.js.
 - [Django Blog](https://github.com/dsell002/backend-applications/django-blog): A blog application built with Django.
-
+-->
 ## Miscellaneous Projects
+- [Bit Packing Examples](https://github.com/dsell002/miscellaneous-projects/bit_packing_examples): Examples on safely interfacing with hardware registers.
+<!--
 - [Python Utilities](https://github.com/dsell002/miscellaneous-projects/python-utilities): A collection of useful Python scripts.
 - [C++ Algorithms](https://github.com/dsell002/miscellaneous-projects/cpp-algorithms): Implementation of various algorithms in C++.
 -->
