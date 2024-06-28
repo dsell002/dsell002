@@ -1,6 +1,9 @@
 ## Flight Software Projects
 - [Spacecraft Command Interface](https://github.com/dsell002/universal-commang-gui): An interface for commanding spacecraft.
 - [Telemetry Data Parser](https://github.com/dsell002/fsw_cmd_tlm_parser): A tool for parsing telemetry data.
+
+## Robotics
+- [Path planning](https://github.com/dsell002/Robotics/tree/main/path_planning): Techniques for path planning in robotics and autonomy.
 <!--
 ## Crypto Projects
 - [Crypto Wallet](https://github.com/dsell002/crypto-projects/crypto-wallet): A secure cryptocurrency wallet.
