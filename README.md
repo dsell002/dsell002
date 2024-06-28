@@ -3,6 +3,8 @@
 - [Telemetry Data Parser](https://github.com/dsell002/fsw_cmd_tlm_parser): A tool for parsing telemetry data.
 
 ## Robotics
+- [Localization](https://github.com/dsell002/Robotics/tree/main/localization): Localization techniques.
+- [Mapping](https://github.com/dsell002/Robotics/tree/main/mapping): Various mapping techniques.
 - [Path planning](https://github.com/dsell002/Robotics/tree/main/path_planning): Techniques for path planning in robotics and autonomy.
 <!--
 ## Crypto Projects
