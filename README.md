@@ -6,6 +6,10 @@
 - [Localization](https://github.com/dsell002/Robotics/tree/main/localization): Localization techniques.
 - [Mapping](https://github.com/dsell002/Robotics/tree/main/mapping): Various mapping techniques.
 - [Path planning](https://github.com/dsell002/Robotics/tree/main/path_planning): Techniques for path planning in robotics and autonomy.
+
+## Crypto
+- [Hash Functions](https://github.com/dsell002/crypto/tree/main/hash_functions): SHA-256 examples.
+- [Symmetric Encryption](https://github.com/dsell002/crypto/tree/main/symmetric_encryption): AES symmetric encryption algorithm example.
 <!--
 ## Crypto Projects
 - [Crypto Wallet](https://github.com/dsell002/crypto-projects/crypto-wallet): A secure cryptocurrency wallet.
