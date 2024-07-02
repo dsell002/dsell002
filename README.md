@@ -8,6 +8,7 @@
 - [Path planning](https://github.com/dsell002/Robotics/tree/main/path_planning): Techniques for path planning in robotics and autonomy.
 
 ## Crypto
+- [Decentralized Network Simulation](https://github.com/dsell002/crypto/tree/main/decentralized_network_simulation): Simulates a decentralized network and implements various consensus mechanisms (PoW, PoS, PBFT)
 - [Hash Functions](https://github.com/dsell002/crypto/tree/main/hash_functions): SHA-256 examples.
 - [Symmetric Encryption](https://github.com/dsell002/crypto/tree/main/symmetric_encryption): AES symmetric encryption algorithm example.
 <!--
