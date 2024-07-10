@@ -6,6 +6,7 @@
 - [Localization](https://github.com/dsell002/Robotics/tree/main/localization): Localization techniques.
 - [Mapping](https://github.com/dsell002/Robotics/tree/main/mapping): Various mapping techniques.
 - [Path planning](https://github.com/dsell002/Robotics/tree/main/path_planning): Techniques for path planning in robotics and autonomy.
+- [Perception](https://github.com/dsell002/Robotics/tree/main/perception): Perception related examples such as multi-object tracking and scene state estimation using temporal fusion.
 
 ## Crypto
 - [Decentralized Network Simulation](https://github.com/dsell002/crypto/tree/main/decentralized_network_simulation): Simulates a decentralized network and implements various consensus mechanisms (PoW, PoS, PBFT)
